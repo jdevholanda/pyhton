@@ -37,7 +37,7 @@ elif imc >= 18.5 and imc <= 24.9:
 else: 
     print("O seu IMC é de: ", imc)
 
-    print("Você é um papel. :)")
+    print("Você está abaixo da média de IMC! )")
 
 
 
